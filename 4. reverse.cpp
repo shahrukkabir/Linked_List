@@ -1,3 +1,7 @@
+//Problem Link:  https://leetcode.com/problems/reverse-linked-list/
+//Editorial :    https://leetcode.com/problems/reverse-linked-list/solutions/5612752/step-by-step-explained-with-images-easiest-to-understand-java-c-python-javascript-go-codes/
+
+
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
